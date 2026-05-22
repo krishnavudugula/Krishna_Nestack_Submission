@@ -18,11 +18,11 @@ This project was built as part of the Nestack SDE Assessment.
 
 ## Base URL
 
-https://your-render-url.onrender.com
+https://webhook-delivery-engine-bf5g.onrender.com
 
 ## Swagger API Docs
 
-https://your-render-url.onrender.com/docs
+https://webhook-delivery-engine-bf5g.onrender.com/docs
 
 ---
 
@@ -94,7 +94,7 @@ webhook-engine/
 ## 1. Clone Repository
 
 ```bash
-git clone <your-private-repository-url>
+git clone https://github.com/krishnavudugula/Krishna_Nestack_Submission.git
 cd webhook-engine
 ```
 
