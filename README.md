@@ -18,11 +18,11 @@ This project was built as part of the Nestack SDE Assessment.
 
 ## Base URL
 
-https://webhook-delivery-engine-bf5g.onrender.com
+https://webhook-delivery-engine-wgcp.onrender.com
 
 ## Swagger API Docs
 
-https://webhook-delivery-engine-bf5g.onrender.com/docs
+https://webhook-delivery-engine-wgcp.onrender.com/docs
 
 ---
 
